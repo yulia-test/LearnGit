@@ -1,4 +1,4 @@
-"HELLO!" 
+Line from terminal
 "HELLO" 
 "GIT is awesome".
 Another line
