@@ -3,4 +3,5 @@ line from github
 "HELLO" 
 "GIT is awesome".
 Another line
-"after stash" ...
+"after stash" ...6
+"line from branch" 
