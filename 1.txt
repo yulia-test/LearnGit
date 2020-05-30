@@ -2,6 +2,6 @@ Line from terminal
 line from github
 "HELLO" 
 "GIT is awesome".
-Another line
+"Another line"
 "after stash" ...6
 "line from branch" 
